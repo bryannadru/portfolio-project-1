@@ -1,9 +1,5 @@
 
 
-body {
-  background-color: #EBCCEC;
-}
-
 h1 {
   font-family: cursve;
 }
@@ -14,6 +10,7 @@ header, main {
   padding: 50px;
   width: 500px;
   height: 150px;
+  background: #EBCCEC;
 }
 
 p {

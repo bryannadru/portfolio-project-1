@@ -1,7 +1,7 @@
 
 
 body {
-  color:   background-color: #EBCCEC;
+  color: background-color: #EBCCEC;
 }
 
 header, main {
@@ -17,5 +17,9 @@ p {
 
 main {
   font-family: 'Times New Roman'
-  
+}
+
+a {
+  color: #000000;
+  text-align: center
 }

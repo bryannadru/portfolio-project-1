@@ -1,9 +1,24 @@
 
 
-h1 {
-  font-family: cursive
+header, main, footer, a{
+  text-align: center;
 }
 
-p main {
-  color: #ffffff
+header, main {
+  background-color: #FAE2F8;
+  border-radius: 25px;
+  padding: 25px;
+  width: 500px;
+  height: 500px;
+}
+
+
+p, h4, h1, h2 {
+  font-famly: Monospace;
+  color: #000000;
+}
+
+footer {
+  background-color: #D3DADB;
+  border-radius: 25px;
 }

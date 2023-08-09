@@ -8,8 +8,15 @@ header, main {
   background-color: #FAE2F8;
   border-radius: 25px;
   padding: 25px;
-  width: 500px;
-  height: 500px;
+  width: 700px;
+}
+
+header {
+  height: 50px;
+}
+
+main {
+  height: 200px;
 }
 
 

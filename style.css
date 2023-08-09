@@ -1,45 +1,5 @@
 
 
 h1 {
-  font-family: cursve;
+  font-family: cursive
 }
-
-header, main {
-  text-align: center;
-  border-radius: 500px;
-  padding: 25px;
-  width: 25px;
-  height: 25px;
-  background-color: #EBCCEC;
-}
-
-p {
-  color: #000000;
-  font-family: 'Times New Roman';
-  margin: 0;
-}
-
-main {
-  font-family: 'Times New Roman'
-  background-color: #ffffff;
-}
-
-a {
-  color: #000000;
-  text-align: center;
-}
-
-footer{
-  text-align: center;
-  color: #000000;
-  background-color: #D1F2EB;
-}
-
-
-
-
-
-
-
-
-

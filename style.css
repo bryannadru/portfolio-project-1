@@ -4,6 +4,10 @@ body {
   color: background-color: #EBCCEC;
 }
 
+header {
+  font-family: cursve
+}
+
 header, main {
   background-color: #EBCCEC;
   text-align: center;

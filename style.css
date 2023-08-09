@@ -1,10 +1,21 @@
 
 
 body {
-  color: 
+  color:   background-color: #EBCCEC;
 }
 
 header, main {
   background-color: #EBCCEC;
+  text-align: center;
 }
 
+p {
+  color: #000000;
+  font-family: 'Times New Roman'
+  margin: 0;
+}
+
+main {
+  font-family: 'Times New Roman'
+  
+}

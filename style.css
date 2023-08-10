@@ -1,30 +1,41 @@
 
-
+/*makes sure the header, main, and footer are centered */
 header, main, footer, a{
   text-align: center;
 }
+
+/* defines background color, style of curved edges using border radius*/
+/* defines padding, width, and margin for header & main */
 
 header, main {
   background-color: #FAE2F8;
   border-radius: 25px;
   padding: 25px;
   width: 700px;
+  margin: 25px;
 }
 
+
+/* defines height of heder*/
 header {
   height: 50px;
 }
 
+/* defines height of main container so border-radius fits aesthetically */
 main {
   height: 300px;
 }
 
+
+/* defines font family */
 
 p, h4, h1, h2 {
   font-famly: monospace;
   color: #000000;
 }
 
+
+/* designs the footer */
 footer {
   background-color: #D3DADB;
   border-radius: 25px;

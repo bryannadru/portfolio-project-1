@@ -42,9 +42,10 @@ main p {
 
 /* designs the footer */
 footer {
-  height: 200px;
+  height: 165px;
   background-color: #D3DADB;
   border-radius: 25px;
+  padding: 25px;
   font-family: 'Gills Sans, Sans-Serif';
 }
 

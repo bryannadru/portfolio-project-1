@@ -1,6 +1,6 @@
 
 /*makes sure the header, main, and footer are centered */
-header, main, footer, a{
+header, main, footer, a {
   text-align: center;
 }
 
@@ -18,12 +18,12 @@ header, main {
 
 /* defines height of heder*/
 header {
-  height: 50px;
+  height: 150px;
 }
 
 /* defines height of main container so border-radius fits aesthetically */
 main {
-  height: 700px;
+  height: 500px;
 }
 
 
@@ -38,6 +38,7 @@ p, h4, h1, h2 {
 
 /* designs the footer */
 footer {
+  height: 100pz;
   background-color: #D3DADB;
   border-radius: 25px;
 }

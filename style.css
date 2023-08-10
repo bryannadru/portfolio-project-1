@@ -23,7 +23,7 @@ header {
 
 /* defines height of main container so border-radius fits aesthetically */
 main {
-  height: 500px;
+  height: 565px;
 }
 
 
@@ -48,6 +48,11 @@ footer {
   padding: 25px;
   font-family: 'Gills Sans, Sans-Serif';
   margin: 25px;
+}
+
+hr {
+  color: #D1F2EB
+  
 }
 
 a:link {

@@ -42,7 +42,7 @@ main p {
 
 /* designs the footer */
 footer {
-  height: 165px;
+  height: 125px;
   background-color: #D3DADB;
   border-radius: 25px;
   padding: 25px;
@@ -50,11 +50,11 @@ footer {
 }
 
 a:link {
-  color: hotpink; 
+  color: purple; 
 }
 
 a:visited {
-  color: purple;
+  color: hotpink;
 }
 
 a:hover {

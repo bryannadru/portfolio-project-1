@@ -27,18 +27,23 @@ main {
 }
 
 
-/* defines font family */
+/* defines font family and color of text*/
 
-p, h4, h1, h2 {
-  font-famly: monospace;
+p, h1, h2, h3 {
+  font-famly: 'Gill Sans, Sans-Serif';
   color: #000000;
-  font-size: 
 }
 
+/* font size for paragraphs*/
+
+main p {
+  font-size: 16px;
+}
 
 /* designs the footer */
 footer {
   height: 100px;
   background-color: #D3DADB;
   border-radius: 25px;
+  font-family: 'Gills Sans, Sans-Serif';
 }

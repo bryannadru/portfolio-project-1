@@ -25,6 +25,9 @@ main {
   height: 565px;
 }
 
+img {
+  texr-align: center;
+}
 
 /* defines font family and color of text*/
 

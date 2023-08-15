@@ -1,95 +1,117 @@
 
+
+
+
 /*makes sure the header, main, and footer are centered */
-header, main, footer, a {
-  text-align: center;
-}
-
-/* defines background color, style of curved edges using border radius*/
-/* defines padding, width, and margin for header & main */
-
-header, main {
-  background-color: #FAE2F8;
-  border-radius: 25px;
-  padding: 25px;
-  margin: 25px;
-}
-
-
-/* defines height of heder*/
-header {
-  height: 125px;
-}
-
-/* defines height of main container so border-radius fits aesthetically */
-main {
-  height: 1500px;
-}
-
-img {
-  text-align: center;
-}
-
-/* defines font family and color of text*/
-
-p, h1, h2, h3 {
-  font-famly: 'Gill Sans, Sans-Serif';
-  color: #000000;
-}
-
-/* font size for paragraphs*/
-
-main p {
-  font-size: 16px;
-}
-
-/* designs the footer */
-footer {
-  height: 30px;
-  background-color: #D3DADB;
-  border-radius: 25px;
-  padding: 25px;
-  font-family: 'Gills Sans, Sans-Serif';
-  margin: 25px;
-}
-
-hr {
-  color: #D1F2EB;
+  header, main, footer, a {
+      text-align: center;
+  }
   
+  /* defines background color, style of curved edges using border radius*/
+  /* defines padding, width, and margin for header & main */
+  
+  header, main {
+    background-color: #ECE8D8;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 25px;
+  }
+  
+  
+  /* defines height of heder*/
+  header {
+    height: 125px;
+  }
+  
+  /* defines height of main container so border-radius fits aesthetically */
+ 
+  
+  
+  /* defines font family and color of text*/
+  
+  p, h1, h2, h3 {
+    font-family: 'Gill Sans, Sans-Serif';
+    color: #000000;
+  }
+  
+  /* font size for paragraphs*/
+  
+  main p {
+    font-size: 16px;
+  }
+
+  ul {
+    text-align: center;
+    list-style-position: inside;
+  }
+  
+  ol {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+
+  /* designs the footer */
+  footer {
+    height: 15px;
+    background-color: #DECAAF;
+    border-radius: 25px;
+    padding: 20px;
+    font-family: 'Gills Sans, Sans-Serif';
+    margin: 25px;
+    text-align: center;
+    font-size: 13px;
+    vertical-align: 20%;
+    
+  }
+  
+  hr {
+    color: #ffffff; 
+  }
+  
+  a:link {
+    color: purple; 
+    background-color: #ffffff
+    border-radius: 25px;
+    padding: 14px 25px;
+  }
+  
+  a:visited {
+    color: hotpink;
+    text-align: center; 
+  }
+  
+  a:hover {
+    color: orange;
+  }
+  
+  a:active {
+    color: #000000;
+  }
+  
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+
+}
+  
+  
+img {
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  width: 40%;
 }
 
-a:link {
-  color: purple; 
-  background-color: #ffffff
-  border-radius: 25px;
-  padding: 14px 25px;
+
+  
+main {
+  height: 1325px;
 }
-
-a:visited {
-  color: hotpink;
-  text-align: center; 
-}
-
-a:hover {
-  color: orange;
-}
-
-a:active {
-  color: #000000;
-}
-
-footer p {
-  font-size: 10px;
-}
+  
 
 
 
-
-
-
-
-
-
-
-
-
-
+  

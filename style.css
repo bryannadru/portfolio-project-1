@@ -22,11 +22,11 @@ header {
 
 /* defines height of main container so border-radius fits aesthetically */
 main {
-  height: 900px;
+  height: 1500px;
 }
 
 img {
-  texr-align: center;
+  text-align: center;
 }
 
 /* defines font family and color of text*/
@@ -53,7 +53,7 @@ footer {
 }
 
 hr {
-  color: #D1F2EB
+  color: #D1F2EB;
   
 }
 
@@ -77,6 +77,9 @@ a:active {
   color: #000000;
 }
 
+footer p {
+  font-size: 10px;
+}
 
 
 
